@@ -3,7 +3,11 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
+<<<<<<< HEAD
 use App\Models\Student;
+=======
+use App\Models\Students;
+>>>>>>> 01c94c104163bc6d6ebbd5a188b648c0d3c169bc
 class StudentController extends Controller
 {
     public function index()
